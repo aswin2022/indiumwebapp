@@ -1,7 +1,7 @@
 # Getting Started
 ## Virtual Machine OS
 * CentOS 7
-Install the following in your VM :
+## Install the following in your VM :
 * JDK 1.8 
 * Maven 3.8 
 * Docker 1.13 
