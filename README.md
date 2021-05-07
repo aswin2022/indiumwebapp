@@ -1,4 +1,16 @@
 # Getting Started
+
+### Technology Stack
+Component         | Technology
+---               | ---
+Frontend          | [Angular 6](https://github.com/angular/angular)
+Backend (REST)    | [SpringBoot](https://projects.spring.io/spring-boot) (Java)
+Security          | Token Based (Spring Security and [JWT](https://github.com/auth0/java-jwt) )
+REST Documentation| [Swagger UI] 
+In Memory DB      | H2 
+Client Build Tools| [angular-cli](https://github.com/angular/angular-cli), Webpack, npm
+Server Build Tools| Maven(Java)
+
 ## Virtual Machine OS
 * CentOS 7
 ## Install the following in your VM :
