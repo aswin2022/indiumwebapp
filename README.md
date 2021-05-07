@@ -7,9 +7,13 @@
 * Docker 1.13 
 * Nodejs 14.16 
 ## Create a directory for the Application
+```
 mkdir Application
+```
 ## Pull the Code from the github Repository
+```
 git clone URL of the repo
+```
 ## Install the Nodejs Packages for frontend application
 npm install  
 ## Build the project using Maven
