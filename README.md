@@ -54,12 +54,6 @@ docker-compose up -d
 ### Accessing Application
 Cpmponent         | URL                                      | Credentials
 ---               | ---                                      | ---
-Frontend          |  http://localhost:9119                   | `demo/demo`
-H2 Database       |  http://localhost:9119/h2-console        |  Driver:`org.h2.Driver` <br/> JDBC URL:`jdbc:h2:mem:demo` <br/> User Name:`sa`
-Swagger (API Ref) |  http://localhost:9119/swagger-ui.html   | 
-Redoc (API Ref)   |  http://localhost:9119/redoc/index.html  |
-Swagger Spec      |  http://localhost:9119/api-docs          |
+BCAD Application  |  http://localhost:8080                   |  User Name:`root` Password: `root`
+Phpmyadmin        |  http://localhost:5001                   |  User Name:`root` Password: `root`
 
-## Accessing the Application
-* Ip of the vm:8080  - to access the webapplication
-* Ip of the vm:5001   -to access phpMyAdmin page
